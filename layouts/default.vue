@@ -14,8 +14,8 @@
 
           <b-navbar-nav class="mx-auto">
             <b-nav-item to="/">Home</b-nav-item>
-            <b-nav-item to="cv">CV</b-nav-item>
-            <b-nav-item to="contact">Contact</b-nav-item>
+            <b-nav-item to="/cv">CV</b-nav-item>
+            <b-nav-item to="/contact">Contact</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-container>

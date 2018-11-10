@@ -1,6 +1,6 @@
 <template>
   <section class="text-center">
-    <logo class="logo-small"/>
+    <logo/>
     <p>Email: <a href="mailto:daniel@danielparker.com.au">daniel@danielparker.com.au</a></p>
     <p>Twitter: <a
       href="https://twitter.com/CodyMcCodeFace"
@@ -31,8 +31,7 @@ section {
   padding-bottom: 40px;
 }
 
-.logo-small {
-  width: 10% !important;
+.logo {
   margin-bottom: 20px;
 }
 </style>

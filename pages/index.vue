@@ -8,18 +8,18 @@
       <h2 class="subtitle">
         Software Engineer
       </h2>
-      <div class="links">
+      <div class="links d-flex">
         <a
           href="/cv"
-          class="button--green">CV</a>
+          class="col button--green">CV</a>
         <a
           href="https://github.com/rlgod"
           target="_blank"
-          class="button--grey">GitHub</a>
+          class="col button--grey">GitHub</a>
         <a
           href="https://blog.danielparker.com.au"
           target="_blank"
-          class="button--black">Blog</a>
+          class="col button--black">Blog</a>
       </div>
     </div>
   </section>
@@ -60,6 +60,16 @@ export default {
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
+}
+
+@media screen and (max-width: 700px) {
+  .title {
+    font-size: 55px;
+  }
+
+  .subtitle {
+    font-size: 40px;
+  }
 }
 
 .links {

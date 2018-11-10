@@ -67,10 +67,10 @@
 
       <h2 id="experience">Experience</h2>
       <div class="d-flex">
-        <div class="col-4 text-right">
+        <div class="col-3 col-sm-4 text-right">
           Current Position
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Senior Software Engineer (Remote)</b>
           <p>eNoteFile Services</p>
           <b>Responsibilities</b>
@@ -86,10 +86,10 @@
       <br>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
-          July 2016 - December 2017
+        <div class="col-3 col-sm-4 text-right">
+          July 2016<br>-<br> Dec 2017
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Software Engineer (Remote)</b>
           <p>A Cloud Guru</p>
 
@@ -106,10 +106,10 @@
       <br>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
-          Feb 2015 - Jun 2016
+        <div class="col-3 col-sm-4 text-right">
+          Feb 2015<br>-<br> Jun 2016
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Support Software Developer</b>
           <p>Kiandra IT</p>
           <b>Responsibilities</b>
@@ -126,10 +126,10 @@
       <br>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
-          Aug 2014 - Aug 2015
+        <div class="col-3 col-sm-4 text-right">
+          Aug 2014<br>-<br> Aug 2015
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Subject Tutor</b>
           <p>Swinburne University of Technology</p>
           <b>Responsibilities</b>
@@ -145,40 +145,40 @@
 
       <h2 id="events">Events</h2>
       <div class="d-flex">
-        <div class="col-4 text-right">
+        <div class="col-3 col-sm-4 text-right">
           Oct 2017
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Serverlessconf NYC (Organising team)</b>
           <p>Serverless community conference</p>
         </div>
       </div>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
+        <div class="col-3 col-sm-4 text-right">
           Apr 2017
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Serverlessconf Austin (Organising team)</b>
           <p>Serverless community conference</p>
         </div>
       </div>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
+        <div class="col-3 col-sm-4 text-right">
           Nov 2016
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>AWS re:invent</b>
           <p>Amazon Web Services Community Conference</p>
         </div>
       </div>
 
       <div class="d-flex">
-        <div class="col-4 text-right">
+        <div class="col-3 col-sm-4 text-right">
           Sep 2016
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>AWS Dev and Architect Day Melbourne</b>
           <p>Local AWS community one day conference</p>
         </div>
@@ -187,10 +187,10 @@
 
       <h2 id="education">Education</h2>
       <div class="d-flex">
-        <div class="col-4 text-right">
-          2012 - 2017
+        <div class="col-3 col-sm-4 text-right">
+          2012<br>-<br> 2017
         </div>
-        <div class="col-7">
+        <div class="col-9 col-sm-7">
           <b>Bachelor of Engineering (Software Engineering) (Honours)</b>
           <p>Swinburne University of Technology</p>
           <b>Key Study Areas:</b>

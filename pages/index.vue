@@ -64,11 +64,11 @@ export default {
 
 @media screen and (max-width: 700px) {
   .title {
-    font-size: 55px;
+    font-size: 45px;
   }
 
   .subtitle {
-    font-size: 40px;
+    font-size: 35px;
   }
 }
 

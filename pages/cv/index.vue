@@ -201,7 +201,7 @@
             <li>Electronics and embedded software development</li>
             <li>Programming real-time systems</li>
           </ul>
-          <b>Grade Point Average:</b> 3.500
+          <b>Grade Point Average:</b> 3.5
         </div>
       </div>
     </div>

@@ -24,7 +24,16 @@
     </p>
     <div class="highlight col-12 col-sm-6 col-md-8 m-auto">
       <div class="copy-clipboard float-right mt-3">
-        <b-btn @click="copyProof()">Copy</b-btn>
+        <b-btn
+          id="proof-button"
+          @click="copyProof()">Copy</b-btn>
+        <b-tooltip
+          :show="showProofTooltip"
+          target="proof-button"
+          placement="top"
+          triggers="">
+          Copied to clipboard
+        </b-tooltip>
       </div>
       <pre class="pre-scrollable col-12 col-sm-10 m-auto">
       <code>
@@ -36,7 +45,16 @@
     <h4 class="mt-5">Public Key</h4>
     <div class="highlight col-12 col-sm-6 col-md-8 m-auto">
       <div class="copy-clipboard float-right mt-3">
-        <b-btn @click="copyPublicKey()">Copy</b-btn>
+        <b-btn
+          id="public-key-tooltip"
+          @click="copyPublicKey()">Copy</b-btn>
+        <b-tooltip
+          :show="showPublicKeyTooltip"
+          target="public-key-tooltip"
+          placement="top"
+          triggers="">
+          Copied to clipboard
+        </b-tooltip>
       </div>
       <pre class="pre-scrollable col-12 col-sm-10 m-auto">
       <code>
@@ -55,6 +73,8 @@ export default {
   },
   data: function() {
     return {
+      showProofTooltip: false,
+      showPublicKeyTooltip: false,
       proof: `
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
@@ -146,6 +166,10 @@ ACtxv/ekO3sqM4/Vjksh
       el.select()
       document.execCommand('copy')
       document.body.removeChild(el)
+      this.showProofTooltip = true
+      setTimeout(() => {
+        this.showProofTooltip = false
+      }, 1000)
     },
     copyPublicKey: function() {
       const el = document.createElement('textarea')
@@ -154,6 +178,10 @@ ACtxv/ekO3sqM4/Vjksh
       el.select()
       document.execCommand('copy')
       document.body.removeChild(el)
+      this.showPublicKeyTooltip = true
+      setTimeout(() => {
+        this.showPublicKeyTooltip = false
+      }, 1000)
     }
   }
 }

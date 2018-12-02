@@ -25,12 +25,12 @@
       please don't hesitate to contact me.
     </p>
     <hr>
-    <h2 class="text-center">Get in contact for more information</h2>
+    <h2>Get in contact for more information</h2>
     <div class="mt-4">
       <form
         name="consulting"
         method="POST"
-        class="col-12 col-sm-10 col-md-5 m-auto"
+        class="col-12 col-sm-10 col-md-5"
         action="https://formspree.io/daniel@danielparker.com.au">
         <strong>Elements marked with * are required</strong>
         <hr>

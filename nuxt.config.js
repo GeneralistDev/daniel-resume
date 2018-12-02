@@ -37,7 +37,8 @@ module.exports = {
   modules: [
     ,
     // Doc: https://bootstrap-vue.js.org/docs/
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    '@nuxtjs/sitemap'
   ],
 
   /*
@@ -58,5 +59,13 @@ module.exports = {
         })
       }
     }
+  },
+
+  sitemap: {
+    path: '/sitemap.xml',
+    hostname: 'https://danielparker.com.au',
+    exclude: ['/consulting/*'],
+    gzip: true,
+    generate: true // Enable me when using nuxt generate
   }
 }

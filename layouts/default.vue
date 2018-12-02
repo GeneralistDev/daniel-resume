@@ -49,12 +49,12 @@ html {
   margin: 0;
 }
 
-a {
-  color: rgba(0, 0, 0, 0.7);
+.nav-link {
+  color: rgba(0, 0, 0, 0.7) !important;
 }
 
-a:hover {
-  color: rgba(0, 0, 0, 0.9);
+.nav-link:hover {
+  color: rgba(0, 0, 0, 0.9) !important;
 }
 
 .body {

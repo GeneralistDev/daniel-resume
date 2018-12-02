@@ -76,7 +76,6 @@
             name="comment"
             placeholder="Tell me about your business, and what you need assistance with so I can better respond to you."/>
         </div>
-        <div netlify-recaptcha/>
         <div class="form-group">
           <b-button type="submit">Submit</b-button>
         </div>

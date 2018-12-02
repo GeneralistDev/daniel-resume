@@ -29,7 +29,8 @@ module.exports = {
         property: 'twitter:image',
         content: 'https://danielparker.com.au/me.jpg'
       },
-      { property: 'twitter:card', content: 'summary_large_image' },
+      { property: 'twitter:card', content: 'summary' },
+      { property: 'twitter:creator', content: '@CodyMcCodeFace' },
       {
         hid: 'description',
         name: 'description',

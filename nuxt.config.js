@@ -101,18 +101,6 @@ module.exports = {
     background_color: '#fff',
     display: 'standalone',
     description: 'Software Development Consultant',
-    start_url: '.',
-    icons: [
-      {
-        src: '/images/android-launchericon-512-512.png',
-        sizes: '512x512',
-        type: 'image/png'
-      },
-      {
-        src: '/images/android-launchericon-192-192.png',
-        sizes: '192x192',
-        type: 'image/png'
-      }
-    ]
+    start_url: '.'
   }
 }

@@ -50,11 +50,11 @@ html {
 }
 
 .nav-link {
-  color: rgba(0, 0, 0, 0.7) !important;
+  color: rgba(0, 0, 0, 1) !important;
 }
 
 .nav-link:hover {
-  color: rgba(0, 0, 0, 0.9) !important;
+  color: rgba(0, 0, 0, 1) !important;
 }
 
 .body {

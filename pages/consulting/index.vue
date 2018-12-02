@@ -42,6 +42,7 @@
             id="name"
             class="form-control"
             type="text"
+            name="name"
             placeholder="Your Name"
             required>
         </div>
@@ -51,6 +52,7 @@
             id="email"
             class="form-control"
             type="email"
+            name="email"
             placeholder="Your Email Address"
             required>
           <small
@@ -63,6 +65,7 @@
             id="country"
             class="form-control"
             type="text"
+            name="country"
             placeholder="Your country">
         </div>
         <div class="form-group">
@@ -71,6 +74,7 @@
             id="comment"
             class="form-control"
             rows="10"
+            name="comment"
             placeholder="Tell me about your business, and what you need assistance with so I can better respond to you."/>
         </div>
 

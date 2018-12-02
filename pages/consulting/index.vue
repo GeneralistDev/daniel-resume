@@ -82,3 +82,27 @@
     </div>
   </section>
 </template>
+<script>
+export default {
+  head() {
+    return {
+      title: 'Remote Software Consulting',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'High value software consulting anywhere in the world'
+        },
+        {
+          name: 'og:description',
+          content: 'High value software consulting anywhere in the world'
+        },
+        {
+          name: 'twitter:description',
+          content: 'High value software consulting anywhere in the world'
+        }
+      ]
+    }
+  }
+}
+</script>

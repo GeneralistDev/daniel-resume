@@ -11,7 +11,29 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Software Engineer' }
+      { name: 'keywords', content: 'software, consulting, developer' },
+      { property: 'og:title', content: 'Daniel Parker' },
+      {
+        property: 'og:description',
+        content: 'Software Development Consultant'
+      },
+      { property: 'og:image', content: 'https://danielparker.com.au/me.jpg' },
+      { property: 'og:url', content: 'https://danielparker.com.au' },
+      { property: 'twitter:title', content: 'Daniel Parker' },
+      {
+        property: 'twitter:description',
+        content: 'Software Development Consultant'
+      },
+      {
+        property: 'twitter:image',
+        content: 'https://danielparker.com.au/me.jpg'
+      },
+      { property: 'twitter:card', content: 'summary_large_image' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Software Development Consultant'
+      }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },

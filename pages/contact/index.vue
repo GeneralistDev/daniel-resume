@@ -68,6 +68,11 @@
 import Logo from '~/components/Logo.vue'
 
 export default {
+  head() {
+    return {
+      title: 'Contact Daniel'
+    }
+  },
   components: {
     Logo
   },

@@ -92,5 +92,27 @@ module.exports = {
     exclude: ['/consulting/*'],
     gzip: true,
     generate: true // Enable me when using nuxt generate
+  },
+
+  manifest: {
+    name: 'Daniel Parker',
+    short_name: 'Daniel P',
+    lang: 'en',
+    background_color: '#fff',
+    display: 'standalone',
+    description: 'Software Development Consultant',
+    start_url: '.',
+    icons: [
+      {
+        src: '/images/android-launchericon-512-512.png',
+        sizes: '512x512',
+        type: 'image/png'
+      },
+      {
+        src: '/images/android-launchericon-192-192.png',
+        sizes: '192x192',
+        type: 'image/png'
+      }
+    ]
   }
 }

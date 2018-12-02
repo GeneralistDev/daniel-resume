@@ -17,6 +17,7 @@ module.exports = {
         property: 'og:description',
         content: 'Software Development Consultant'
       },
+      { property: 'og:type', content: 'website' },
       { property: 'og:image', content: 'https://danielparker.com.au/me.jpg' },
       { property: 'og:url', content: 'https://danielparker.com.au' },
       { property: 'twitter:title', content: 'Daniel Parker' },

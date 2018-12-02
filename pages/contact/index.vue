@@ -16,6 +16,12 @@
       target="_blank">danielptech</a></p>
 
     <h4 class="mt-5">Proof of identity</h4>
+    <p>
+      <a
+        href="https://keybase.io/verify"
+        target="_blank">Go to keybase to verify message
+      </a>
+    </p>
     <div class="highlight col-12 col-sm-6 col-md-8 m-auto">
       <div class="copy-clipboard float-right mt-3">
         <b-btn @click="copyProof()">Copy</b-btn>

@@ -32,7 +32,6 @@
         method="POST"
         class="col-12 col-sm-10 col-md-5 m-auto"
         action="/consulting/thankyou/"
-        netlify-recaptcha
         netlify>
         <strong>Elements marked with * are required</strong>
         <hr>
@@ -77,7 +76,7 @@
             name="comment"
             placeholder="Tell me about your business, and what you need assistance with so I can better respond to you."/>
         </div>
-
+        <div netlify-recaptcha/>
         <div class="form-group">
           <b-button type="submit">Submit</b-button>
         </div>

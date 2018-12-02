@@ -31,7 +31,7 @@
         name="consulting"
         method="POST"
         class="col-12 col-sm-10 col-md-5 m-auto"
-        action="/consulting/thankyou"
+        action="/consulting/thankyou/"
         netlify-recaptcha
         netlify>
         <strong>Elements marked with * are required</strong>

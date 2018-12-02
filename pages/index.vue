@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <div class="row">
-          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+          <div class="col-12 col-sm-6 col-md-4 mt-2 mt-md-0">
             <b-button
               variant="primary"
               size="lg"
@@ -18,7 +18,7 @@
               class="col">Consulting</b-button>
           </div>
 
-          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+          <div class="col-12 col-sm-6 col-md-2 mt-2 mt-md-0">
             <b-button
               variant="outline-secondary"
               size="lg"

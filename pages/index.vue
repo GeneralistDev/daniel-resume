@@ -8,18 +8,42 @@
       <h2 class="subtitle">
         Software Engineer
       </h2>
-      <div class="links d-flex">
-        <a
-          href="/cv"
-          class="col button--green">CV</a>
-        <a
-          href="https://github.com/rlgod"
-          target="_blank"
-          class="col button--grey">GitHub</a>
-        <a
-          href="https://blog.danielparker.com.au"
-          target="_blank"
-          class="col button--black">Blog</a>
+      <div class="links">
+        <div class="row">
+          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+            <b-button
+              variant="primary"
+              size="lg"
+              to="/consulting"
+              class="col">Consulting</b-button>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+            <b-button
+              variant="outline-secondary"
+              size="lg"
+              to="/cv"
+              class="col">CV</b-button>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+            <b-button
+              variant="outline-secondary"
+              size="lg"
+              href="https://github.com/rlgod"
+              target="_blank"
+              class="col">GitHub</b-button>
+          </div>
+
+          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+            <b-button
+              variant="outline-secondary"
+              size="lg"
+              href="https://blog.danielparker.com.au"
+              target="_blank"
+              class="col">Blog</b-button>
+          </div>
+        </div>
       </div>
     </div>
   </section>

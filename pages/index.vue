@@ -35,7 +35,7 @@
               class="col">GitHub</b-button>
           </div>
 
-          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0 mb-sm-5">
+          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0 mb-5">
             <b-button
               variant="outline-secondary"
               size="lg"

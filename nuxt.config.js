@@ -100,7 +100,6 @@ module.exports = {
     lang: 'en',
     background_color: '#fff',
     display: 'standalone',
-    description: 'Software Development Consultant',
-    start_url: '.'
+    description: 'Software Development Consultant'
   }
 }

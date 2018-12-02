@@ -28,5 +28,8 @@
     "eslint-plugin-vue": "^4.0.0",
     "nodemon": "^1.11.0",
     "prettier": "1.14.3"
+  },
+  "resolutions": {
+    "**/event-stream": "^4.0.1"
   }
 }

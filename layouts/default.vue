@@ -49,13 +49,13 @@ html {
   margin: 0;
 }
 
-.nav-link {
+/* .nav-link {
   color: rgba(0, 0, 0, 1) !important;
 }
 
 .nav-link:hover {
   color: rgba(0, 0, 0, 1) !important;
-}
+} */
 
 .body {
   margin-top: 20px;

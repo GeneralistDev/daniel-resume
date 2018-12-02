@@ -33,7 +33,7 @@
         class="col-12 col-sm-10 col-md-5 m-auto"
         action="/consulting/thankyou/"
         netlify-recaptcha
-        netlify>
+        data-netlify="true">
         <strong>Elements marked with * are required</strong>
         <hr>
         <div class="form-group">

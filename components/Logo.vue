@@ -1,6 +1,7 @@
 <template>
   <img
     src="/me.jpg"
+    alt="Photo of Daniel"
     class="logo w-25">
 </template>
 <style>

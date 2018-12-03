@@ -14,7 +14,7 @@
             <b-button
               variant="primary"
               size="lg"
-              to="/consulting"
+              to="/consulting/"
               class="col">Consulting</b-button>
           </div>
 
@@ -22,7 +22,7 @@
             <b-button
               variant="outline-secondary"
               size="lg"
-              to="/cv"
+              to="/cv/"
               class="col">CV</b-button>
           </div>
 

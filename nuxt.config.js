@@ -92,9 +92,17 @@ module.exports = {
   sitemap: {
     path: '/sitemap.xml',
     hostname: 'https://danielparker.com.au',
-    exclude: ['/consulting/*'],
+    exclude: ['/consulting/*', '/consulting', '/cv', '/contact'],
     gzip: true,
-    generate: true // Enable me when using nuxt generate
+    generate: true,
+    routes: [
+      {
+        url: '/consulting/',
+        priority: 1
+      },
+      '/contact/',
+      '/cv/'
+    ]
   },
 
   manifest: {

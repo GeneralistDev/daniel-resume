@@ -66,19 +66,40 @@
       <hr>
 
       <h2 id="experience">Experience</h2>
+
       <div class="d-flex">
         <div class="col-3 col-sm-4 text-right">
           Current Position
+        </div>
+        <div class="col-9 col-sm-7">
+          <b>Software Engineer (Remote)</b>
+          <p>Care Continuity</p>
+          <b>Responsibilities</b>
+          <p>
+            Architecting solutions to solve customer problems<br>
+            Primary reviewer for frontend code pull requests<br>
+            Architecting and improving the React codebase<br>
+            Building full stack features<br>
+            Contributing to team discussions on critical decisions<br>
+          </p>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="d-flex">
+        <div class="col-3 col-sm-4 text-right">
+          Dec 2017<br>-<br> Sep 2019
         </div>
         <div class="col-9 col-sm-7">
           <b>Senior Software Engineer (Remote)</b>
           <p>eNoteFile Services</p>
           <b>Responsibilities</b>
           <p>
-            Architecting software solutions
-            Full-stack web application development
-            Development of DevOps processes and tools
-            Product roadmapping and feature planning
+            Architecting software solutions<br>
+            Full-stack web application development<br>
+            Development of DevOps processes and tools<br>
+            Product roadmapping and feature planning<br>
           </p>
         </div>
       </div>
@@ -95,10 +116,10 @@
 
           <b>Responsibilities</b>
           <p>
-            Architecting Serverless AWS solutions
-            Full-stack web application development
-            Development of DevOps processes and tools
-            Team training and developer onboarding
+            Architecting Serverless AWS solutions<br>
+            Full-stack web application development<br>
+            Development of DevOps processes and tools<br>
+            Team training and developer onboarding<br>
           </p>
         </div>
       </div>
@@ -114,11 +135,11 @@
           <p>Kiandra IT</p>
           <b>Responsibilities</b>
           <p>
-            Software Support
-            Software Development in .NET
-            AWS solution design
-            Software project consulting
-            Presales engineering
+            Software Support<br>
+            Software Development in .NET<br>
+            AWS solution design<br>
+            Software project consulting<br>
+            Presales engineering<br>
           </p>
         </div>
       </div>
@@ -134,9 +155,9 @@
           <p>Swinburne University of Technology</p>
           <b>Responsibilities</b>
           <p>
-            Tutoring introductory and second year C++ algorithms and data structures units
-            Running tutorials of 20+ students
-            Marking assignments and providing help/feedback to students
+            Tutoring introductory and second year C++ algorithms and data structures units<br>
+            Running tutorials of 20+ students<br>
+            Marking assignments and providing help/feedback to students<br>
           </p>
         </div>
       </div>
@@ -149,7 +170,7 @@
           Oct 2017
         </div>
         <div class="col-9 col-sm-7">
-          <b>Serverlessconf NYC (Organising team)</b>
+          <b>Serverlessconf NYC<br>(Organising team and workshop presenter)</b>
           <p>Serverless community conference</p>
         </div>
       </div>
@@ -159,7 +180,7 @@
           Apr 2017
         </div>
         <div class="col-9 col-sm-7">
-          <b>Serverlessconf Austin (Organising team)</b>
+          <b>Serverlessconf Austin<br>(Organising team and workshop presenter)</b>
           <p>Serverless community conference</p>
         </div>
       </div>

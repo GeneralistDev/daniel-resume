@@ -30,7 +30,7 @@
             <b-button
               variant="outline-secondary"
               size="lg"
-              href="https://github.com/rlgod"
+              href="https://github.com/GeneralistDev"
               target="_blank"
               class="col">GitHub</b-button>
           </div>

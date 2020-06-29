@@ -3,14 +3,14 @@
     <logo/>
     <p>Email: <a href="mailto:daniel@danielparker.com.au">daniel@danielparker.com.au</a></p>
     <p>Twitter: <a
-      href="https://twitter.com/CodyMcCodeFace"
-      target="_blank">@CodyMcCodeFace</a></p>
+      href="https://twitter.com/GeneralistDev"
+      target="_blank">@GeneralistDev</a></p>
     <p>Github: <a
-      href="https://github.com/rlgod"
-      target="_blank">Rlgod</a></p>
+      href="https://github.com/GeneralistDev"
+      target="_blank">GeneralistDev</a></p>
     <p>Gitlab: <a
-      href="https://gitlab.com/CodyMcCodeFace"
-      target="_blank">CodyMcCodeFace</a></p>
+      href="https://gitlab.com/GeneralistDev"
+      target="_blank">GeneralistDev</a></p>
     <p>LinkedIn: <a
       href="https://www.linkedin.com/in/danielptech/"
       target="_blank">danielptech</a></p>

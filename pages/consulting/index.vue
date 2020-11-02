@@ -31,7 +31,7 @@
         name="consulting"
         method="POST"
         class="col-12 col-sm-10 col-md-5"
-        action="https://formspree.io/daniel@danielparker.com.au">
+        action="https://formspree.io/f/daniel@danielparker.com.au">
         <strong>Elements marked with * are required</strong>
         <hr>
         <div class="form-group">

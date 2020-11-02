@@ -72,6 +72,25 @@
           Current Position
         </div>
         <div class="col-9 col-sm-7">
+          <b>Senior Integrations Engineer (Remote)</b>
+          <p>GitLab</p>
+          <b>Responsibilities</b>
+          <p>
+            Technical lead for enterprise application projects<br>
+            Manager of integrations outsourcing<br>
+            Directly responsible individual for all business technology integrations architecture<br>
+            Requirements gathering and integrations engineering stable counterpart for business partners<br>
+          </p>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="d-flex">
+        <div class="col-3 col-sm-4 text-right">
+          Sep 2019<br>-<br> Jul 2020
+        </div>
+        <div class="col-9 col-sm-7">
           <b>Software Engineer (Remote)</b>
           <p>Care Continuity</p>
           <b>Responsibilities</b>

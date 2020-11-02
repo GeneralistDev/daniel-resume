@@ -5,10 +5,10 @@
     <p>Twitter: <a
       href="https://twitter.com/GeneralistDev"
       target="_blank">@GeneralistDev</a></p>
-    <p>Github: <a
+    <p>GitHub: <a
       href="https://github.com/GeneralistDev"
       target="_blank">GeneralistDev</a></p>
-    <p>Gitlab: <a
+    <p>GitLab: <a
       href="https://gitlab.com/GeneralistDev"
       target="_blank">GeneralistDev</a></p>
     <p>LinkedIn: <a

@@ -35,14 +35,15 @@ module.exports = {
         content: 'https://danielparker.com.au/me.jpg'
       },
       { property: 'twitter:card', content: 'summary' },
-      { property: 'twitter:creator', content: '@CodyMcCodeFace' },
+      { property: 'twitter:creator', content: '@GeneralistDev' },
       {
         hid: 'description',
         name: 'description',
         content: 'Software Development Consultant'
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'stylesheet', type: 'text/css', href: 'https://pro.fontawesome.com/releases/v5.15.1/css/all.css', integrity: 'sha384-9ZfPnbegQSumzaE7mks2IYgHoayLtuto3AS6ieArECeaR8nCfliJVuLh/GaQ1gyM', crossorigin: 'anonymous' }]
   },
 
   /*

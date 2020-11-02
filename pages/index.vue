@@ -10,38 +10,50 @@
       </h2>
       <div class="links">
         <div class="row">
-          <div class="col-12 col-sm-6 col-md-4 mt-2 mt-md-0">
+          <div class="col-6 mx-auto">
             <b-button
               variant="primary"
               size="lg"
               to="/consulting/"
-              class="col">Consulting</b-button>
+              class="col"><i class="fas fa-handshake"/>Consulting</b-button>
           </div>
+        </div>
 
-          <div class="col-12 col-sm-6 col-md-2 mt-2 mt-md-0">
+        <div class="row mt-4">
+          <div class="col-12 col-sm-6">
             <b-button
               variant="outline-secondary"
               size="lg"
               to="/cv/"
-              class="col">CV</b-button>
+              class="col"><i class="fas fa-file-user"/> CV</b-button>
           </div>
 
-          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0">
+          <div class="col-12 col-sm-6">
+            <b-button
+              variant="outline-secondary"
+              size="lg"
+              href="https://medium.com/generalist-dev"
+              target="_blank"
+              class="col"><i class="fab fa-medium"/> Blog</b-button>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col-12 col-sm-6">
+            <b-button
+              variant="outline-secondary"
+              size="lg"
+              href="https://gitlab.com/GeneralistDev"
+              target="_blank"
+              class="col"><i class="fab fa-gitlab"/> GitLab</b-button>
+          </div>
+
+          <div class="col-12 col-sm-6">
             <b-button
               variant="outline-secondary"
               size="lg"
               href="https://github.com/GeneralistDev"
               target="_blank"
-              class="col">GitHub</b-button>
-          </div>
-
-          <div class="col-12 col-sm-6 col-md-3 mt-2 mt-md-0 mb-5">
-            <b-button
-              variant="outline-secondary"
-              size="lg"
-              href="https://blog.danielparker.com.au"
-              target="_blank"
-              class="col">Blog</b-button>
+              class="col"><i class="fab fa-github"/> GitHub</b-button>
           </div>
         </div>
       </div>
